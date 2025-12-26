@@ -20,6 +20,8 @@ This repo is in its early stages - only a few notebooks have been added so far, 
 - [General ML](https://github.com/abhinand5/ml-notebooks-101/tree/main/General-ML)
   * [Regression 101: Predicting Housing Prices](https://github.com/abhinand5/ml-notebooks-101/blob/main/General-ML/regression-101-predicting-housingprices.ipynb)
   * [Titanic: Machine Learning from Disaster](https://github.com/abhinand5/ml-notebooks-101/blob/main/General-ML/Titanic_ML_from_disaster)
+  * [diabetes-prediction-model](https://www.kaggle.com/code/vinod123kumar/diabetes-prediction-model)
+  *[Food-delivery-eda-analysis](https://www.kaggle.com/code/vinod123kumar/food-delivery-eda-analysis)
 - [NLP](https://github.com/abhinand5/ml-notebooks-101/tree/main/NLP)
   * [Language Modelling](https://github.com/abhinand5/ml-notebooks-101/tree/main/NLP/LanguageModelling)
     + [Basic N-Gram Language Modelling](https://github.com/abhinand5/ml-notebooks-101/blob/main/NLP/LanguageModelling/N-Gram/ngram-language-model.ipynb)
